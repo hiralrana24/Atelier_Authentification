@@ -1,4 +1,4 @@
 AuthName "Accès protégé"
 AuthType Basic
-AuthUserFile /home/{hiral-rana24}/www/.htpasswd
+AuthUserFile /home/hiral-rana24/www/.htpasswd
 Require valid-user
